@@ -1,0 +1,7 @@
+var num1;
+var num2;
+
+num1=+prompt("Type a number")
+num2=+prompt("Type a number")
+
+alert(num1+num2);
