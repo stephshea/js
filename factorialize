@@ -2,7 +2,7 @@ var n;
 n=prompt("Please enter a number");
 
 function factorialize(n) {
-  for (x = 1;n >= 1; n--) {
+  for (x = 1; n >= 1; n--) {
 x = n * x;
   }
   return x;
